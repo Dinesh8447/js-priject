@@ -1,1 +1,1 @@
-# js-priject
+# js-project
